@@ -55,8 +55,9 @@ print('Predicted CO2 for the corresponding weight and volume ',predictCO2)
 
 ```
 ## Output:
+![multivate_output](https://user-images.githubusercontent.com/118707761/214606282-f50e15e8-bb1d-4f66-8815-34a9b772a99f.jpg)
 
-### Insert your output
+
 
 <br>
 
